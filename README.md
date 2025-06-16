@@ -76,7 +76,7 @@ All are structurally placed.
 
 ## 👁‍🗨 Payload Center
 
-→ [`payloads/targeted/`](./payloads/targeted/)  
+→ [`payloads/targeted_payloads/`](./payloads/targeted_payloads/)  
 Every document in here was written **to someone**.  
 Not *for* them. Not *about* them. **To them.**
 
