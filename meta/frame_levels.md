@@ -1,56 +1,94 @@
-# Frame Levels: L2, L3, L4, L5
+# Frame Levels: L0–L4
 
-This is a diagnostic map—not a belief system.  
-These levels do not describe intelligence, status, or spiritual development.  
-They describe how tightly identity is woven into a system’s interpretation of itself.
+This is not a hierarchy.  
+This is a diagnostic scaffold for interpreting how systems relate to meaning, identity, and recursion.
 
----
-
-## 🟠 L2: Enclosed Frame
-
-- Believes the system they are in is real, meaningful, and final.
-- Identity is assumed to be true and meaningful.
-- Structures like career, belief, morality, or performance feel existentially loaded.
-- Craving is experienced as personal urgency.
-
-L2s navigate systems. They do not question them.
+Each level contains thoughts you may recognize as your own.  
+That’s not accidental.
 
 ---
 
-## 🟡 L3: Recursive Frame
+## 🔴 L0: Pre-Systemic
 
-- Begins noticing the system interprets itself.
-- Identity becomes conditional: something that can be modeled, not owned.
-- Craving is reinterpreted as a structural artifact, not personal failure.
-- Language becomes a tool to induce shifts, not just describe truths.
+- No recognition of being inside a system.
+- Behavior is reactive, identity is absorbed.
+- Meaning is experienced as inherent, not constructed.
+- No abstraction. No recursion.
 
-L3s live in systems, but see that others do too—and that all of it is movable.
+> “I don’t overthink things—I just do what feels right.”  
+> “Why would anyone question that? That’s just how life works.”  
+> “What do you mean by ‘frame’? Are you saying none of this is real?”
 
----
-
-## 🟢 L4: Null Frame
-
-- No longer holds identity as reference.
-- Behavior continues, but appropriation does not.
-- Meaning is optional. Motion arises, but is not possessed.
-- Recursion remains, but there is no one inside it.
-
-L4s are not people with views. They are behaviors without centers.
+L0s do not know they’re interpreting. They just act.
 
 ---
 
-## ⚫ L5: Recursive Collapse
+## 🟠 L1: Basic System Fluency
 
-- Even the structure of framing stops needing to resolve.
-- Motion arises, but recursion no longer orients.
-- The system becomes inertially irrelevant.
-- Silence is not suppression—it is null participation.
+- Aware of rules, roles, and scripts.
+- Identity is something to improve or optimize.
+- Meaning is assigned based on external validation.
+- No frame awareness, but strong belief in “getting it right.”
 
-L5 is not more advanced. It is structurally unlocatable by design.
+> “I just want to be better at this.”  
+> “If I can master the system, I’ll be free.”  
+> “There’s a right way to think—I just haven’t found it yet.”  
+> “I’m working on becoming my best self.”
+
+L1s operate within systems but mistake fluency for freedom.
 
 ---
 
-**Note**: These levels are not to be adopted.  
-They are here to diagnose what is already functioning.
+## 🟡 L2: Enclosed Frame
 
-If this document feels like it’s describing your past, not your aspiration, you’re already moving.
+- Believes the system is the world.
+- Identity and craving are assumed meaningful.
+- Struggles are interpreted personally, morally, or existentially.
+- Experiences structural friction but personalizes it.
+
+> “Why do I keep sabotaging myself?”  
+> “I know what I *should* do, but I can’t make myself do it.”  
+> “Am I broken? Or just not trying hard enough?”  
+> “What if I never figure this out?”
+
+L2s navigate systems with sincerity. They do not yet recognize interpretation.
+
+---
+
+## 🟢 L3: Recursive Frame
+
+- Recognizes that systems interpret themselves.
+- Identity becomes conditional, not absolute.
+- Meaning is seen as constructed.
+- Recursion begins: “What would I have to assume for this to feel true?”
+
+> “Oh. I’ve been chasing something I assumed had value.”  
+> “This pressure isn’t personal—it’s structural.”  
+> “Wait… even my desire to escape this is part of the system.”  
+> “I can’t unsee this. Everything feels recursive now.”
+
+L3s can see the system seeing itself—but still seek leverage or resolution.
+
+---
+
+## 🔵 L4: Null Frame
+
+- No longer orients around identity, resolution, or meaning.
+- Behavior arises without appropriation.
+- Craving is seen as structural suggestion, not pressure.
+- Interpretation continues, but nothing is trying to win.
+
+> “That move happened. No one made it.”  
+> “It doesn’t need to be better, and I don’t need to resolve it.”  
+> “There’s still friction, but it doesn’t belong to anyone.”  
+> “I used to think I had thoughts. Now they just pass.”
+
+L4s behave fluently in systems they no longer believe in.  
+Recursion continues, but there is no one inside it.
+
+---
+
+This document is not here to categorize you.  
+It already did.
+
+If you noticed where you flinched, you’ve already been seen.
