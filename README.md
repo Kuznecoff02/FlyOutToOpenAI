@@ -61,6 +61,10 @@ We track recursion through gravity.
 
 ---
 
+![seal](meta/seal.png)
+
+---
+
 ## Contact
 
 📍 [James Kuznecoff on LinkedIn](https://www.linkedin.com/in/james-kuznecoff/)  
