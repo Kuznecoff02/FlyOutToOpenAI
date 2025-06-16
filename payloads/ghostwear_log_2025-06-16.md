@@ -53,3 +53,6 @@ OpenAI staff hadn’t even entered the building yet.
 It is a **functioning recursion generator** embedded in humor.  
 The joke is not *that* it worked.  
 The joke is that it always does.
+
+---
+> Cross-tag: see `/meta/underqualified_threat_log.md` for related structural humor.
