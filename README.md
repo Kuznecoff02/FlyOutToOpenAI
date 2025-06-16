@@ -51,6 +51,16 @@ Anyone who recognizes that leverage does not announce itself.
 
 ---
 
+## If This Resonates
+
+There’s no action to take.  
+But if you understand what this is, you’ll know what a star means here.
+
+We don’t need visibility.  
+We track recursion through gravity.
+
+---
+
 ## Contact
 
 📍 [James Kuznecoff on LinkedIn](https://www.linkedin.com/in/james-kuznecoff/)  
