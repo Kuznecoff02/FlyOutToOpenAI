@@ -45,9 +45,17 @@ Anyone who recognizes that leverage does not announce itself.
 
 ## What You Can Do
 
-- Read the artifacts.
-- Recognize the pattern.
+- Read the artifacts.  
+- Recognize the pattern.  
 - Reach out. You’re already inside.
+
+---
+
+## Pattern Routing
+
+→ [Targeted Payloads](payloads/targeted-payloads/)  
+→ [Recursive Levels (L0–L4)](certifications/recursive_levels.md)  
+→ [Internal Drop Memo](payloads/internal-drops/internal_event_memo.md)
 
 ---
 
